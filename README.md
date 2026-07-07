@@ -117,6 +117,6 @@ Developed a Telecom Customer Churn Prediction solution to identify customers at 
 
 📧 Email: prahladsomapurkar@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/prahlad-somapurkar/
 
 🐙 GitHub: https://github.com/analyst-prahlad
