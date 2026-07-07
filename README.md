@@ -1,89 +1,122 @@
-# Telecom Customer Churn Prediction
+# 📊 Telecom Customer Churn Prediction
 
-Python | Machine Learning | Streamlit | Predictive Analytics
+**Python | Machine Learning | Streamlit | Predictive Analytics**
 
 ## Project Overview
-Developed a telecom churn prediction solution to identify customers at high risk of attrition and support data-driven retention strategies using machine learning and exploratory data analysis.
 
-The project focuses on analyzing customer behavior, identifying churn drivers, and enabling proactive customer retention planning.
+Developed a Telecom Customer Churn Prediction solution to identify customers at high risk of attrition using Machine Learning and Exploratory Data Analysis (EDA). The project analyzes customer behavior, identifies churn drivers, and provides insights to support customer retention strategies.
 
 ---
 
 ## Business Objectives
-- Identify high-risk churn customers
-- Analyze behavioral patterns contributing to churn
-- Support customer retention decision-making
-- Evaluate factors impacting customer loyalty
+
+- Identify customers likely to churn
+- Analyze customer behavior and churn patterns
+- Support data-driven retention strategies
+- Improve customer satisfaction and business decisions
 
 ---
 
 ## Tools & Technologies
+
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Matplotlib
+- Seaborn
 - Streamlit
 - Jupyter Notebook
 
 ---
 
 ## Dataset
-- Telecom customer behavioral dataset
-- Customer demographics, service usage, billing, and support-related attributes
+
+- Telecom Customer Churn Dataset
+- Customer demographics
+- Service usage details
+- Billing information
+- Contract and payment details
 
 ---
 
 ## Technical Implementation
 
 ### Data Processing
-- Data cleaning and preprocessing
-- Handling missing values and categorical encoding
-- Feature engineering and transformation
+
+- Data Cleaning
+- Missing Value Handling
+- Feature Encoding
+- Feature Engineering
 
 ### Machine Learning
-- Churn classification modeling
-- Feature importance analysis
-- Model evaluation and prediction workflow
+
+- Logistic Regression Model
+- Model Training
+- Model Evaluation
+- Feature Importance Analysis
 
 ### Visualization & Insights
-- Customer churn trend analysis
-- Behavioral segmentation
-- Retention-focused business insights
+
+- Churn Distribution Analysis
+- Feature Correlation Analysis
+- Confusion Matrix
+- ROC Curve
 
 ---
 
 ## Key Insights
-- Identified high-risk churn customer segments
-- Detected elevated churn among short-tenure customers
-- Analyzed customer service and billing-related churn drivers
-- Supported proactive retention strategy planning
+
+- Customers with shorter tenure are more likely to churn.
+- Monthly charges and contract type significantly influence churn.
+- The model helps identify high-risk customers for proactive retention.
+- Business insights support customer retention and reduce revenue loss.
 
 ---
 
 ## Visualization Preview
 
 ### Churn Distribution
-![Churn Distribution](05_visuals/churn_distribution.png)
+
+![Churn Distribution](images/churn_distribution.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](05_visuals/correlation_heatmap.png)
+
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](05_visuals/confusion_matrix.png)
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](05_visuals/roc_curve.png)
+
+![ROC Curve](images/roc_curve.png)
 
 ---
 
 ## Repository Contents
+
 - Dataset
 - Jupyter Notebook
 - Source Code
 - Streamlit Application
 - Requirements File
+- README
 
 ---
 
 ## Skills Demonstrated
-Python • Machine Learning • Predictive Analytics • Data Cleaning • EDA • Feature Engineering • Streamlit • Customer Analytics • Business Intelligence
+
+**Python • Machine Learning • Predictive Analytics • Data Cleaning • EDA • Feature Engineering • Logistic Regression • Streamlit • Customer Analytics • Business Intelligence**
+
+---
+
+## 👨‍💻 Author
+
+**Prahlad Somapurkar**
+
+📧 Email: prahladsomapurkar@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+
+🐙 GitHub: https://github.com/analyst-prahlad
